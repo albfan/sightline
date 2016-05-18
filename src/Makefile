@@ -3,7 +3,6 @@ all: sightline
 OBJS = \
        sl-line-reader.o \
        sl-log-reader.o \
-       sl-make-target.o \
        $(NULL)
 
 PKGS = gio-2.0
